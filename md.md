@@ -20,7 +20,11 @@ _____
 
 **수지**
 
+**이종석**
+
 *수지*
+
+*이종석*
 
 -----
 
@@ -46,8 +50,11 @@ _____
 
 **이미지**
 
+![수지](http://kinimage.naver.net/20170928_215/1506610774886eEsea_JPEG/1506610774696.jpeg) ![이종석](http://blogfiles1.naver.net/MjAxNzEwMTlfMTc3/MDAxNTA4Mzc3NzgwNjQ1.sZUSPeNYiPzjQwWLyv6jiKJBPuKbL4rHDgUKoX3nfxUg.Em-ieUVDdRCKFyjKLKuJJ7Wv5M4EuPIiyMSziIJBpbYg.JPEG.ja1174/104258695_19.jpg)
+
 
 **숫자**
+
 1. a
 2. b
 3. c
@@ -60,3 +67,14 @@ _____
 * b
 * c
 
+**코드참조**
+
+```
+inti = 0;
+int sin = 0;
+
+for(i=0;i<10;i++)
+ {
+   sum += i;
+ }
+```
